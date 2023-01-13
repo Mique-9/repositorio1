@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+nav{
+  width: 1900px;
+  height: 170px;
+  background-image: url("https://th.bing.com/th/id/R.70c4ac2b9df3fedfea35bae4a27f5ba6?rik=8iEneHuZIQbtKg&pid=ImgRaw&r=0");
+  background-position:top right;
+  border-radius: 20px;
+  text-align: left;
+  
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  margin: 100px;
+  font-family: 'Fredoka', sans-serif; 
+  border: solid  black;
+  border-radius: 10px;
+  background-image: url("https://th.bing.com/th/id/R.70c4ac2b9df3fedfea35bae4a27f5ba6?rik=8iEneHuZIQbtKg&pid=ImgRaw&r=0");
+  background-position:top;
+ 
+  
+}
+
+section{
+   width: auto;
+   height: 450px;
+}
+  
+body{
+  background-color:#000000
+  
+}
+h2{
+  padding: 50px;
+  margin: 50px;
+  font-family: 'Fredoka', sans-serif;
+  text-align: center;
+  background-image: url("https://th.bing.com/th/id/R.70c4ac2b9df3fedfea35bae4a27f5ba6?rik=8iEneHuZIQbtKg&pid=ImgRaw&r=0");
+  background-position:top;
+  border: solid  black;
+  border-radius: 10px;
+  color: white;
+  
+}
+
+h3{
+  color:white;
+  text-align: center;
+  
+}
+
+article{
+  font-family: 'Fredoka', sans-serif;
+  color: white;
+  padding-left: 75px;
+  padding-right: 75px;
+  text-align: justify;
+}
+
+a:hover::before {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #ffee10;
+}
+
+a:hover {
+  color: #ffee10;
+  box-shadow: 0 0 5px #ffee10;
+  text-shadow: 0 0 5px #ffee10;
+}
+
+aside{
+  
+  background-image: url("http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2077704A6");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-position:50px 40px;
+  border:3px #99FFFF;
+  border-radius: 20px;  
+  width: auto;
+  height: 250px;
+  text-align: justify;
+  padding-right: 190px;
+}
+
+
+#minhasinfo{
+  color:white;
+  padding-left: 225px;
+  
+}
+
+footer{
+  font-family: 'Fredoka', sans-serif;
+  color: white;
+  
+  
+}
+#submit{
+   font-family: 'Fredoka', sans-serif;
+   width: 655px;
+   height: 50px;
+   font-size: 25px;
+   border-radius: 10px;
+  
+}
+
+fieldset{
+  
+  border-radius: 10px;
+  background-image: url("https://th.bing.com/th/id/R.70c4ac2b9df3fedfea35bae4a27f5ba6?rik=8iEneHuZIQbtKg&pid=ImgRaw&r=0");
+  background-position:top;
+  border: solid  black;
+  width: 600px;
+  height: 50px;
+  text-align: left;
+  padding: 25px;
+  margin: 0px;
+  
+}
+
+#nome{
+  padding-left: 225px;
+  
+}
+
+#msg{
+  padding-left: 190px;
+  height: 50px;
+  
+}
+
+#feedback{
+  align-items: center;
+  padding-left: 50px;
+  
+}
